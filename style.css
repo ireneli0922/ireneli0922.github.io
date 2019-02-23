@@ -1,0 +1,52 @@
+#background{
+	
+}
+#background #header{
+	background:#000000;
+	color:white;
+	text-align:center;
+	padding:5px;
+}
+#background #nav{
+	line-height:30px;
+	background-color:#eeeeee;
+	height:610px;
+	width:120px;
+	float:left;
+	padding:5px;	      
+}
+#background #nav ul.navigation{
+	width:120px;
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	float:left;
+	overflow:hidden;
+}
+#background #nav ul.navigation li {
+	width:100px;
+	float:left;
+	padding:5px;
+}
+#background #nav ul.navigation li a{
+	text-decoration:none;
+	color:black;
+}
+#background #nav ul.navigation li a:hover {
+	color:#00bbff;
+}
+#background #nav ul.navigation li a.active {
+	font-weight: bold;
+}
+#background #section{
+	width:300px;
+	float:left;
+	padding:10px;	
+}
+#background #footer{
+	background-color:black;
+	color:white;
+	clear:both;
+	text-align:center;
+	padding:5px;	
+}
