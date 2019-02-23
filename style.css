@@ -16,7 +16,7 @@
 	padding:5px;	      
 }
 #background #nav ul.navigation{
-	width:120px;
+	width:150px;
 	list-style-type:none;
 	margin:0;
 	padding:0;
@@ -24,7 +24,7 @@
 	overflow:hidden;
 }
 #background #nav ul.navigation li {
-	width:100px;
+	width:120px;
 	float:left;
 	padding:5px;
 }
