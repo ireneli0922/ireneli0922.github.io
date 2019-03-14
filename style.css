@@ -1,10 +1,11 @@
+@charset "utf-8";
 html,body {
 margin: 0px;
 padding: 0px;
-height:100%;
+height:91.1%;
 }
 #background{
-	
+height:100%;	
 }
 #background #header{
 	background:#000000;
@@ -15,13 +16,13 @@ height:100%;
 #background #nav{
 	line-height:30px;
 	background-color:#eeeeee;
-	height:632px;
-	width:120px;
+	height:100%;
+	width:10%;
 	float:left;
 	padding:5px;	      
 }
 #background #nav ul.navigation{
-	width:150px;
+	width:100%;
 	list-style-type:none;
 	margin:0;
 	padding:0;
@@ -29,7 +30,7 @@ height:100%;
 	overflow:hidden;
 }
 #background #nav ul.navigation li {
-	width:120px;
+	width:100%;
 	float:left;
 	padding:5px;
 }
@@ -44,7 +45,6 @@ height:100%;
 	font-weight: bold;
 }
 #background #section{
-	width:1000px;
 	float:left;
 	padding:10px;	
 }
@@ -53,5 +53,5 @@ height:100%;
 	color:white;
 	clear:both;
 	text-align:center;
-	padding:5px;	
+	padding:5px;
 }
